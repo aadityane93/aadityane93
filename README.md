@@ -2,8 +2,7 @@
 
 # Hi, I'm Aaditya Neupane 👋
 
-### AI & Machine Learning Enthusiast | Software Developer | Data & Embedded Systems Explorer
-### Currently exploring: AI Harness, AI Memory and Dreaming, Agentic AI (Deep Agents, Research Agents)
+### Agentic AI | AI platforms & deployment | AI Workflows
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+applications;Exploring+LLMs%2C+Agentic+AI+%26+Computer+Vision;Turning+ideas+into+real+world+projects" alt="Typing SVG" />
 
